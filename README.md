@@ -42,6 +42,14 @@ Before you begin, ensure you have:
 - A Supabase account ([sign up](https://supabase.com))
 - A Resend account ([sign up](https://resend.com))
 
+## 📚 Documentation
+
+- `docs/QUICKSTART.md` - 15-minute setup guide
+- `docs/FRONTEND-SETUP.md` - Frontend setup details
+- `docs/PROJECT_STRUCTURE.md` - Architecture overview
+- `docs/CODE_TEMPLATES.md` - Frontend code templates
+- `docs/PACKAGE_README.txt` - Package overview
+
 ## 🚀 Quick Start
 
 ### 1. Setup External Services
