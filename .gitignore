@@ -1,20 +1,40 @@
-logs
+﻿# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Build outputs
+dist/
+dist-ssr/
+build/
+.next/
+
+# Logs
+logs/
 *.log
 npm-debug.log*
-node_modules
-dist
-dist-ssr
-*.local
-.vscode/*
-.idea
+
+# OS
 .DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
-.env
-.env.local
-.env.production
+
+# Misc
+*.local
 .cache/
 coverage/
